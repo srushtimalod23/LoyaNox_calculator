@@ -8,9 +8,9 @@ A simple Calculator application built using **React**, **Vite**, **Tailwind CSS*
 
 Add a screenshot of your project inside the **public** folder.
 
-```md
+
 ![Calculator Screenshot](public/output.png)
-```
+
 
 ---
 
